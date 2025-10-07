@@ -23,6 +23,33 @@ The dataset contains detailed information on emergency calls including location,
 
 ---
 🚀 *This project is part of my Data Science journey and demonstrates exploratory data analysis (EDA) skills.*
+---
 
+## 📊 Visualizations
+
+### 1️⃣ 911 Calls by Day of Week and Reason
+Shows how call volume varies by day and type (Traffic, Fire, EMS).
+
+![### 911 Calls by Day of Week and Reason](./calls_by_day_reason.png)
+
+---
+
+### 2️⃣ Calls per Month
+Highlights monthly variations and seasonal patterns in emergency calls.
+
+![### 911 Calls by Day of Week and Reason](./calls_per_month.png)
+
+---
+
+### 3️⃣ Daily 911 Calls Trend
+Displays daily call frequency across the dataset.
+
+![### Daily 911 Calls by Reason](./daily_calls.png)
+---
+
+### 4️⃣ Heatmap of Calls by Hour and Day
+Visualizes when emergencies happen most often across hours and days.
+
+![### Heatmap of 911 Calls by Day and Hour](./heatmap_day_hour.png)
 
 
