@@ -1,8 +1,10 @@
 # 911 Calls Analysis
 
-## 📌 Overview  
-This project analyzes **911 emergency call data** to uncover patterns and trends in emergency incidents.  
-The dataset contains detailed information on emergency calls including **location**, **time**, and **category** of the call.
+## 📌 Introduction  
+Ever wondered when and why most 911 calls happen? 📞  
+This project explores real **emergency call data** to uncover **patterns, peak hours, and major incident types** using **Python, Pandas, and Seaborn**.  
+
+Through clear data visualizations, it transforms raw call records into **insights that reveal when and why emergencies occur — helping make faster, smarter responses possible.**  
 
 ---
 
