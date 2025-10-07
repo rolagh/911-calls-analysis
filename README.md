@@ -62,10 +62,6 @@ Visualizes when emergencies happen most often across hours and days.
 </p>
 ---
 
-## 🧩 Conclusion
+## ✅ Conclusion
 📈 These insights highlight how data visualization can uncover trends in emergency response  
 and help decision-makers improve resource allocation, response times, and public safety.
-
----
-
-🚀 *This project is part of my Data Science journey and demonstrates exploratory data analysis (EDA) skills.*
