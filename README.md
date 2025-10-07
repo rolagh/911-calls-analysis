@@ -30,26 +30,33 @@ The dataset contains detailed information on emergency calls including location,
 ### 1️⃣ 911 Calls by Day of Week and Reason
 Shows how call volume varies by day and type (Traffic, Fire, EMS).
 
-![### 911 Calls by Day of Week and Reason](./calls_by_day_reason.png)
+<p align="center">
+  <img src="./calls_by_day_reason.png" alt="Calls by Day and Reason" width="600"/>
+</p>
 
 ---
 
 ### 2️⃣ Calls per Month
 Highlights monthly variations and seasonal patterns in emergency calls.
 
-![### 911 Calls by Day of Week and Reason](./calls_per_month.png)
+<p align="center">
+  <img src="./calls_per_month.png" alt="Calls per Month" width="600"/>
+</p>
 
 ---
 
 ### 3️⃣ Daily 911 Calls Trend
 Displays daily call frequency across the dataset.
 
-![### Daily 911 Calls by Reason](./daily_calls.png)
+<p align="center">
+  <img src="./daily_calls.png" alt="Daily Calls" width="600"/>
+</p>
+
 ---
 
 ### 4️⃣ Heatmap of Calls by Hour and Day
 Visualizes when emergencies happen most often across hours and days.
 
-![### Heatmap of 911 Calls by Day and Hour](./heatmap_day_hour.png)
-
-
+<p align="center">
+  <img src="./heatmap_day_hour.png" alt="Heatmap Day Hour" width="600"/>
+</p>
