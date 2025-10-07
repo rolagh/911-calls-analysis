@@ -21,8 +21,7 @@ The dataset contains detailed information on emergency calls including location,
 - Distribution of emergencies by category (Traffic, Fire, EMS).  
 - Trends over time visualized with line plots and histograms.  
 
----
-🚀 *This project is part of my Data Science journey and demonstrates exploratory data analysis (EDA) skills.*
+
 ---
 
 ## 📊 Visualizations
