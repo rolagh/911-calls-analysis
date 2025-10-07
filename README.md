@@ -68,3 +68,8 @@ Visualizes when emergencies happen most often across hours and days.
 ## ✅ Conclusion
 📈 These insights highlight how data visualization can uncover trends in emergency response  
 and help decision-makers improve resource allocation, response times, and public safety.
+
+---
+
+📘 *Full analysis available in the Jupyter Notebook file above.*  
+
