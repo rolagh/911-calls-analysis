@@ -60,7 +60,7 @@ Visualizes when emergencies happen most often across hours and days.
 <p align="center">
   <img src="./images/heatmap_day_hour.png" width="600">
 </p>
----
+
 
 ## ✅ Conclusion
 📈 These insights highlight how data visualization can uncover trends in emergency response  
