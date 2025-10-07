@@ -39,7 +39,7 @@ Shows how call volume varies by day and type (Traffic, Fire, EMS).
 
 ---
 
-### 2️⃣ Calls per Month  
+### 2️⃣ 911 Calls per Month  
 Highlights monthly variations and seasonal patterns.  
 <p align="center">
   <img src="./images/calls_per_month.png" width="600">
@@ -47,7 +47,7 @@ Highlights monthly variations and seasonal patterns.
 
 ---
 
-### 3️⃣ Daily 911 Calls Trend  
+### 3️⃣ Daily 911 Calls by Reason  
 Displays daily call frequency across the dataset.  
 <p align="center">
   <img src="./images/daily_calls.png" width="600">
@@ -55,7 +55,7 @@ Displays daily call frequency across the dataset.
 
 ---
 
-### 4️⃣ Heatmap of Calls by Hour and Day  
+### 4️⃣ Heatmap of 911 Calls by Hour and Day  
 Visualizes when emergencies happen most often across hours and days.  
 <p align="center">
   <img src="./images/heatmap_day_hour.png" width="600">
