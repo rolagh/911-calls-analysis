@@ -57,14 +57,6 @@ Displays daily call frequency across the dataset.
 
 ---
 
-### 4️⃣ Heatmap of 911 Calls by Hour and Day  
-Visualizes when emergencies happen most often across hours and days.  
-<p align="center">
-  <img src="./images/heatmap_day_hour.png" width="600">
-</p>
-
----
-
 ## ✅ Conclusion
 📈 These insights highlight how data visualization can uncover trends in emergency response  
 and help decision-makers improve resource allocation, response times, and public safety.
